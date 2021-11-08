@@ -1,0 +1,1 @@
+1. Arrays: es un objeto general que almacena colecciones de distintos tipos de datos como por ejemplo, strings, booleanos, numeros, funciones, etc.
