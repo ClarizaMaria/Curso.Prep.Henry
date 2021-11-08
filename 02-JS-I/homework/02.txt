@@ -1,0 +1,13 @@
+1. Variable: Es una forma de almacenar el valor de algo, como si fuese un cajón, en él se almancenan valores de cosas, un ejemplo sería en el cajon 'a' se almacenará el precio de las manzanas y en el cajon 'b' se almaceará el descuento por el que se pueden comprar. Si queremos usar estas variables más tarde sólo tendremos que invocarla y no tener que de nuevo poner el valor de los cajones. En Javascript la variable se nombra como var.
+
+2. Strings: son bloques de texto que siempre se deben definir entre comillas (""), por ejemplo una variable podria ser un string: var ciudad = "Bogotá"
+
+3.
+- Funciones: Son bloques de código que construyen herramientas que se pueden reutilizar después en otros bloques. Un ejemplo podría ser un carro autónomo, este ya sabe predeterminadamente que tiene que conducir de tal manera, eso serían las funciones.
+- Argumentos: Javascript tiene una variable local implícita llamada  arguments, la cual te da la posibilidad de acceder a los argumentos del llamado a tu función.
+- Return: es una sentencia que se utiliza para dar por terminada una función, esta retorna un valor después de que se haya hecho un llamado a la función.
+
+4. Declaraciones if: es un condicional que sirve para realizar control entre una expresión y otra; por ejemplo, cuando vamos al cine y dicen que si tienes menos de 16 años no puedes ver esta pelicula, pero los que tienen más sí lo pueden hacer.
+
+5. Valores booleanos (true, false):
+Es un parámetro que da como resutado dos opciones, true o false. Un ejemplo de esto es 4>4= false, 4>3= true.
