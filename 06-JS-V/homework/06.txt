@@ -1,0 +1,5 @@
+1. Prototype: 
+En Javascript cada fragmento de código que creamos tiene un prototipo detrás, es decir un objeto general que se clona por cada objeto nuevo que creamos, un ejemplo es: tenemos una clase 'Usuario' que tiene distintos objetos, y se quiere que todos ellos compartan una función llamada 'edad', para que se pueda hacer esto, se debe invocar al objeto prototype y así se afecta el comportamiento de todos los objetos de la función 'Usuario'.
+
+2. Constructors (de Clase):
+Una clase se define como una manera más entendible de organizar un bloque de código para así simplificar el funcionamiento de dicho fragmento. Dentro de esta clase, existe la función especial constructor, que como su propio nombre lo dice, construye y se encargar de iniciar la función después de haber creado un objeto 'new'.
