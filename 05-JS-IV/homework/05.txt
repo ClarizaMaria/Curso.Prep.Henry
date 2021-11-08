@@ -1,0 +1,9 @@
+1. Objetos: los objetos tienen muchas similitudes con los array, pero se diferencian en que el primero tiene mucha información sobre una sola cosa, un ejemplo puede ser, un computador, este sería el objeto y tiene mucha información como su tamaño, su capacidad, su tipo de software y funciones como encendido, apagado, etc.
+
+2. Propiedades: está dentro del objeto, es una asociación entre un número (clave) y un valor, puede estar dada en string, valor matemático o función.
+
+3. Métodos: las propiedades tienen también valores que pueden ser funciones, que son fragmentos de código que dan una instrucción que se debe hacer, en este caso, la función es llamada método.
+
+4. Bucle for...in: Itera sobre las propiedades de un objeto en orden para encontrar la propiedad y el valor específico de esta cuando el condicional lo pida así. Por ejemplo, se tiene un array de marcas de computadores y su capacidad, se necesita saber la capacidad de ciertas marcas de computador únicamente; en este caso se usaría el bucle for in.
+
+5. Notación de puntos vs notación de corchetes: los dos son usados para llamar las propiedades de un objeto o agregar cierto valor a una propiedad. Su diferencia consiste en que con los corchetes tenemos que tener el nombre exacto del valor o de la propiedad.
