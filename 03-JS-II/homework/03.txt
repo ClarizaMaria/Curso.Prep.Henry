@@ -1,0 +1,6 @@
+1. For: es una iteración que crea ciclos hasta que una condición se cumpla, se genera una automatización para buscar esa condición. Debe conformarse por una inicialización, una condición y por último un incremento.
+
+2. &&, ||, ! : 
+- &&: su función es hacer que dos condiciones se cumplan al mismo tiempo. 
+- ||: su función es hacer que una de las dos condiciones se cumplan al mismo tiempo.
+- ! : operador que se encarga de devolver true si la condición es distinta a otra.
